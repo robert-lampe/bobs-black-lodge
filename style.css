@@ -14,7 +14,17 @@ h1 {
   font-size: 80px;
   font-style: italic;
   text-align: center;
-  padding-top: 10px;
+  padding-top: 0px;
+}
+
+h3 {
+  color: yellow;
+  text-transform: uppercase;
+  font-style: italic;
+}
+
+p {
+  color: white;
 }
 
 .container {
