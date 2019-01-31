@@ -8,6 +8,14 @@ body {
   text-align: center;
 }
 
+a {
+  color: hotpink;
+}
+
+a:hover {
+  color: yellow;
+}
+
 h1 {
   color: yellow;
   text-transform: uppercase;
